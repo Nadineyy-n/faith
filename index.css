@@ -1,0 +1,17 @@
+div{
+  text-align: center;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #070625;
+  border-radius: 40px;
+  color: whitesmoke;
+}
+
+body{
+  background-color: maroon;
+}
+
+audio{
+  color: purple;
+}
